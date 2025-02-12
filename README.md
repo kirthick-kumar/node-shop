@@ -11,7 +11,7 @@ This is a simple e-commerce website built with Node.js that allows users to brow
 - Password Reset
 
 ## Technologies Used
-- Backend: Node.js, Express.js
+- Backend: Node-Express
 - Database: MongoDB
 - Authentication: JWT (JSON Web Tokens), bcrypt
 - Payment Gateway: Stripe
